@@ -1,0 +1,2 @@
+vhdl work "gen_ciclos_clk.vhd"
+vhdl work "ts_gen.vhd"

@@ -1,0 +1,3 @@
+vhdl isim_temp "Contador.vhd"
+vhdl isim_temp "display_decod7s_contador.vhd"
+vhdl isim_temp "ts_display.vhd"

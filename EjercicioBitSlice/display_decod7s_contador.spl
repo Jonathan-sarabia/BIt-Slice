@@ -1,0 +1,6 @@
+[Inputs]
+clk
+reset
+[Outputs]
+=display[6:0]=
+[BiDir]
